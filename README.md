@@ -1,6 +1,6 @@
 # Git Demo: Tom O'Keefe
 
-Actually learning Git!!!
+Actually learning Git!!!!!!!!!!!!!!!!!!!!!!
 
 Gonna learn some kool stuff!
 
