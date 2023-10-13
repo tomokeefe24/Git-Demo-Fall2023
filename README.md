@@ -1,6 +1,6 @@
 # Git Demo: Tom O'Keefe
 
-Actually learning Git!!!
+Actually learning Git!!!!!!!!!!!!!!!!!!!!!!
 
 Gonna learn some kool stuff!
 
@@ -9,3 +9,7 @@ Gonna learn some kool stuff!
 - git push
 - git clone
 - git push
+
+
+## Kool Stuff
+-learning branching
